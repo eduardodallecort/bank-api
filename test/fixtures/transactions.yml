@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  transaction_type: MyString
+  value: 1.5
+  transaction_date: 2021-07-29
+  account: one
+  previous_balance: 1.5
+  new_balance: 1.5
+
+two:
+  transaction_type: MyString
+  value: 1.5
+  transaction_date: 2021-07-29
+  account: two
+  previous_balance: 1.5
+  new_balance: 1.5
